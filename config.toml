@@ -1,0 +1,4 @@
+theme = "hugo-academic"
+baseURL = "http://psyguy.github.io/"
+languageCode = "en-us"
+title = "PsyGuy welcomes you at this blog <3"
